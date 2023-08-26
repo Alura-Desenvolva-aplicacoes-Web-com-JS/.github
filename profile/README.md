@@ -13,6 +13,13 @@
 
 ---
 
+<a href="https://github.com/caiocollete">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocollete&theme=transparent&show_icons=true" />
+</a><br>
+<a href="https://github.com/caiocollete">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocollete&theme=transparent&hide_langs_below=1" />
+</a>
+
 ## Tecnologias
 
 Veja algumas tecnologias que você encontrará em meu perfil:
