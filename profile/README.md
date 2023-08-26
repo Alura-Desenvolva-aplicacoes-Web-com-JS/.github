@@ -13,12 +13,13 @@
 
 ---
 
-<a href="https://github.com/Alura-Desenvolva-aplicacoes-Web-com-JS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muriloCoelho1212&show_icons=true" />
-</a><br>
-<a href="https://github.com/Alura-Desenvolva-aplicacoes-Web-com-JS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloCoelho1212&theme=transparent&hide_langs_below=1" />
+<!-- Código que adiciona informações personalizadas sobre o seu perfil no github 
+<a href="https://github.com/Alura-Desenvolva-aplicacoes-Web-com-JS" align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muriloCoelho1212&show_icons=true" align="center"/>
 </a>
+<a href="https://github.com/Alura-Desenvolva-aplicacoes-Web-com-JS" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloCoelho1212&theme=transparent&hide_langs_below=1" align="center"/>
+</a> --> 
 
 ## Tecnologias
 
