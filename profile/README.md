@@ -14,7 +14,7 @@
 ---
 
 <a href="https://github.com/Alura-Desenvolva-aplicacoes-Web-com-JS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muriloCoelho1212&theme=transparent&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muriloCoelho1212&show_icons=true" />
 </a><br>
 <a href="https://github.com/Alura-Desenvolva-aplicacoes-Web-com-JS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloCoelho1212&theme=transparent&hide_langs_below=1" />
