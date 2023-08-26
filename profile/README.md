@@ -39,8 +39,8 @@ Meus projetos são voltados para a web e desenvolvimento mobile, porém pretendo
 
 Aqui você pode ver alguns dos meus principais projetos:
 
-- [NLW Setup Explorer](https://github.com/muriloCoelho1212/NLWSetup-explorer)
-- [Meu Portfólio](https://github.com/muriloCoelho1212/portfolio)
+- <a href="https://github.com/muriloCoelho1212/NLWSetup-explorer" target="_blank">NLW Setup Explorer</a>
+- <a href="https://github.com/muriloCoelho1212/portfolio" target="_blank">Meu portifólio/</a>
 
 ---
 
